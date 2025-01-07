@@ -61,5 +61,5 @@ Keylogger captures and stores logs, along with screenshots:
 ![](/images/11.jpg)
 
 </br></br>
-Licensed under the [MIT License](LICENSE).
+
 
